@@ -6,6 +6,35 @@ To run the code, ensure that you have the following dependencies installed:
 - Python 3.8 or higher
 - PyTorch 2.0.0 or higher
 - dhg
+## Project Structure
+```
+ReTIP/
+│
+├── data_process/              # Scripts for data preprocessing
+│   ├── add_author.py          # Adds author information to the dataset
+│   ├── add_caption.py         # Adds captions to dataset entries
+│   ├── add_retrieval.py       # Adds retrieval-key to the dataset
+│   ├── datapkl_gen.py         # Generates dataset pickle files and retrieval related news
+│   ├── user_embd_gen.py       # Generates user embeddings
+│   └── user_trieval.py        # Retrieval related users
+│
+├── HGNNP.py                   # Hypergraph model
+├── argument.py                # Parses and handles command-line arguments
+├── dataset.py                 # Loads  datasets
+├── retip.py                   # Main model
+├── test.py                    # Script for model testing and evaluation
+├── train.py                   # Script for training the model
+└── utils.py                   # Utility functions
+```
+## Experiment Settings
+```
+|                      | K(Retrieved_items_num) | M(Retrieved_users_num) |
+| -------------------- | ---------------------- | ---------------------- |
+| Fakeddit             | 9                      | 3                      |
+| ReCOVery             | 9                      | 12                     |
+| MM-COVID19           | 2                      | 2                      |
+| Common Configuration | 9                      | 12                     |
+```
 ## Dataset
 - Fakeddit https://github.com/entitize/fakeddit
 - ReCOVery https://github.com/apurvamulay/ReCOVery
