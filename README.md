@@ -35,6 +35,8 @@ ReTIP/
 | MM-COVID19           | 2                      | 2                      |
 | Common Configuration | 9                      | 12                     |
 ```
+
+
 ## Dataset
 - Fakeddit https://github.com/entitize/fakeddit
 - ReCOVery https://github.com/apurvamulay/ReCOVery
@@ -63,4 +65,6 @@ python train.py
 ```bash
 python test.py
 ```
-    
+
+
+​    
