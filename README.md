@@ -35,6 +35,88 @@ ReTIP/
 | MM-COVID19           | 2                      | 2                      |
 | Common Configuration | 9                      | 12                     |
 ```
+## Case Study
+Here are some randomly selected target news items and their corresponding retrieval instances, where the first column is the targeted news item.
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 760px; overflow-x: auto;">
+
+  <img src="case_study/plot_saved_images_1/source.jpg" alt="Image 1" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_1/0_retrieved.jpg" alt="Image 2" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_1/1_retrieved.jpg" alt="Image 3" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_1/2_retrieved.jpg" alt="Image 4" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_1/3_retrieved.jpg" alt="Image 5" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_1/4_retrieved.jpg" alt="Image 6" style="width: 100px; height: 100px;">
+
+</div>
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 760px; overflow-x: auto;">
+
+  <img src="case_study/plot_saved_images_2/source.jpg" alt="Image 1" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_2/0_retrieved.jpg" alt="Image 2" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_2/1_retrieved.jpg" alt="Image 3" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_2/2_retrieved.jpg" alt="Image 4" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_2/3_retrieved.jpg" alt="Image 5" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_2/4_retrieved.jpg" alt="Image 6" style="width: 100px; height: 100px;">
+
+</div>
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 760px; overflow-x: auto;">
+
+  <img src="case_study/plot_saved_images_3/source.jpg" alt="Image 1" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_3/0_retrieved.jpg" alt="Image 2" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_3/1_retrieved.jpg" alt="Image 3" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_3/2_retrieved.jpg" alt="Image 4" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_3/3_retrieved.jpg" alt="Image 5" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_3/4_retrieved.jpg" alt="Image 6" style="width: 100px; height: 100px;">
+
+</div>
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 760px; overflow-x: auto;">
+
+  <img src="case_study/plot_saved_images_4/source.jpg" alt="Image 1" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_4/0_retrieved.jpg" alt="Image 2" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_4/1_retrieved.jpg" alt="Image 3" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_4/2_retrieved.jpg" alt="Image 4" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_4/3_retrieved.jpg" alt="Image 5" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_4/4_retrieved.jpg" alt="Image 6" style="width: 100px; height: 100px;">
+
+</div>
+
+<div style="display: flex; flex-wrap: nowrap; align-items: center; width: 760px; overflow-x: auto;">
+
+  <img src="case_study/plot_saved_images_5/source.jpg" alt="Image 1" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_5/0_retrieved.jpg" alt="Image 2" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_5/1_retrieved.jpg" alt="Image 3" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_5/2_retrieved.jpg" alt="Image 4" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_5/3_retrieved.jpg" alt="Image 5" style="width: 100px; height: 100px; margin-right: 10px;">
+
+  <img src="case_study/plot_saved_images_5/4_retrieved.jpg" alt="Image 6" style="width: 100px; height: 100px;">
+
+</div>
+
 
 
 ## Dataset
